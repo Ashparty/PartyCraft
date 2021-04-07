@@ -27,13 +27,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "butterachvement"
+    },
+    {
+      "name": "Buttermmmm",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "buttermmmm"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "advancements.buttermmmm.descr": "Get butter",
       "tile.test_block.name": "Test Block",
+      "advancements.buttermmmm.title": "Buttermmmm",
       "tile.butter.name": "Butter"
     }
   },

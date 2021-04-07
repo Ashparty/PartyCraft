@@ -1,0 +1,40 @@
+{
+  "display": {
+    "background": "minecraft:textures/blocks/stone.png",
+    "icon": {
+      "item": "partycraft:butter"
+    },
+    "title": {
+      "translate": "advancements.buttermmmm.title"
+    },
+    "description": {
+      "translate": "advancements.buttermmmm.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "buttermmmm": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "partycraft:butter",
+            "count": {
+              "min": 100,
+              "max": 100
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100,
+    "loot": [
+      "partycraft:butterachvement"
+    ]
+  }
+}
