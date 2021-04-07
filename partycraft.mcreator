@@ -1,17 +1,28 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "TestBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_block"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "tile.test_block.name": "Test Block"
+    }
   },
   "workspaceSettings": {
     "modid": "partycraft",
     "modName": "PartyCraft",
     "version": "1.0.0",
-    "author": "bug73, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "author": "Ashparty, 12Redstones",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],
@@ -19,6 +30,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.12.2",
+    "credits": "Sub to technoblade",
     "modElementsPackage": "net.mcreator.partycraft",
     "lockBaseModFiles": false
   },

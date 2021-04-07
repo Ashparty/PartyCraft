@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "partycraft:blocks/template",
+    "up": "partycraft:blocks/template",
+    "north": "partycraft:blocks/template",
+    "east": "partycraft:blocks/template",
+    "south": "partycraft:blocks/template",
+    "west": "partycraft:blocks/template",
+    "particle": "partycraft:blocks/template"
+  }
+}
