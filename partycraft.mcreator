@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "test_block"
+    },
+    {
+      "name": "Butter",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butter"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "tile.test_block.name": "Test Block"
+      "tile.test_block.name": "Test Block",
+      "tile.butter.name": "Butter"
     }
   },
   "workspaceSettings": {
