@@ -2,6 +2,15 @@
   "id_map": {},
   "mod_elements": [
     {
+      "name": "TestBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_block"
+    },
+    {
       "name": "Butter",
       "type": "block",
       "sortid": 2,
@@ -9,40 +18,13 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "butter"
-    },
-    {
-      "name": "Butterrecipie",
-      "type": "recipe",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "butterrecipie"
-    },
-    {
-      "name": "Partycraft",
-      "type": "tab",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "partycraft"
-    },
-    {
-      "name": "GiantForest",
-      "type": "biome",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "giant_forest"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabpartycraft": "PartyCraft",
+      "tile.test_block.name": "Test Block",
       "tile.butter.name": "Butter"
     }
   },

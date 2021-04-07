@@ -38,9 +38,9 @@ public class BlockButter extends ElementsPartycraftMod.ModElement {
 	}
 	public static class BlockCustom extends Block {
 		public BlockCustom() {
-			super(Material.ROCK);
+			super(Material.SPONGE);
 			setUnlocalizedName("butter");
-			setSoundType(SoundType.GROUND);
+			setSoundType(SoundType.SLIME);
 			setHardness(1F);
 			setResistance(10F);
 			setLightLevel(0F);
