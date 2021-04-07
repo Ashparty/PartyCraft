@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "butter"
+    },
+    {
+      "name": "Butterrecipie",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterrecipie"
     }
   ],
   "variable_elements": [],
