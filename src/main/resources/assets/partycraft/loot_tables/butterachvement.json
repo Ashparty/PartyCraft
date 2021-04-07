@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:diamond_sword",
-          "weight": 1
+          "weight": 3
         }
       ]
     }

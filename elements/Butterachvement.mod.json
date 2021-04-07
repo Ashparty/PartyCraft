@@ -16,7 +16,7 @@
             "item": {
               "value": "Items.DIAMOND_SWORD"
             },
-            "weight": 1,
+            "weight": 3,
             "minCount": 1,
             "maxCount": 1,
             "minEnchantmentLevel": 30,
