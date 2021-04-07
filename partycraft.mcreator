@@ -20,15 +20,6 @@
       "registry_name": "butter"
     },
     {
-      "name": "Butterachvement",
-      "type": "loottable",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "butterachvement"
-    },
-    {
       "name": "Buttermmmm",
       "type": "achievement",
       "sortid": 3,
@@ -36,6 +27,75 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "buttermmmm"
+    },
+    {
+      "name": "Butterset",
+      "type": "armor",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterset",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Butterarmor",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterarmor"
+    },
+    {
+      "name": "Butterhelmet",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterhelmet"
+    },
+    {
+      "name": "Butterleggings",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterleggings"
+    },
+    {
+      "name": "Butterboots",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterboots"
+    },
+    {
+      "name": "Butterbread",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterbread"
+    },
+    {
+      "name": "Butterbreadrecipie",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterbreadrecipie"
     }
   ],
   "variable_elements": [],
@@ -43,8 +103,13 @@
   "language_map": {
     "en_us": {
       "advancements.buttermmmm.descr": "Get butter",
+      "item.buttersetbody.name": "Butterset Body",
+      "item.buttersetboots.name": "Butterset Boots",
       "tile.test_block.name": "Test Block",
+      "item.buttersethelmet.name": "Butterset Helmet",
       "advancements.buttermmmm.title": "Buttermmmm",
+      "item.buttersetlegs.name": "Butterset Leggings",
+      "item.butterbread.name": "Butterbread",
       "tile.butter.name": "Butter"
     }
   },

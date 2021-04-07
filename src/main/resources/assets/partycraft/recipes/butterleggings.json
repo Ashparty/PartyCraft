@@ -1,0 +1,36 @@
+{
+  "group": "partycraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "partycraft:butter"
+    },
+    "1": {
+      "item": "partycraft:butter"
+    },
+    "2": {
+      "item": "partycraft:butter"
+    },
+    "3": {
+      "item": "partycraft:butter"
+    },
+    "5": {
+      "item": "partycraft:butter"
+    },
+    "6": {
+      "item": "partycraft:butter"
+    },
+    "8": {
+      "item": "partycraft:butter"
+    }
+  },
+  "result": {
+    "item": "partycraft:buttersetlegs",
+    "count": 1
+  }
+}

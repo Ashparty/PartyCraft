@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bread_butter",
+    "customModelName": "Normal",
+    "name": "Butterbread",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Yes dont worry its healthy"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 5,
+    "saturation": 3.0,
+    "eatingSpeed": 1,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

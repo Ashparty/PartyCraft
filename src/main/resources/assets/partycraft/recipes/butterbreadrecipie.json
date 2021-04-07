@@ -1,0 +1,19 @@
+{
+  "group": "partycraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "partycraft:butter"
+    },
+    {
+      "item": "partycraft:butter"
+    },
+    {
+      "item": "partycraft:butter"
+    }
+  ],
+  "result": {
+    "item": "partycraft:butterbread",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "partycraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "partycraft:butter"
+    },
+    "2": {
+      "item": "partycraft:butter"
+    },
+    "3": {
+      "item": "partycraft:butter"
+    },
+    "4": {
+      "item": "partycraft:butter"
+    },
+    "5": {
+      "item": "partycraft:butter"
+    },
+    "6": {
+      "item": "partycraft:butter"
+    },
+    "7": {
+      "item": "partycraft:butter"
+    },
+    "8": {
+      "item": "partycraft:butter"
+    }
+  },
+  "result": {
+    "item": "partycraft:buttersetbody",
+    "count": 1
+  }
+}
